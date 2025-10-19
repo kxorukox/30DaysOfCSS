@@ -16,7 +16,7 @@ body {
     border-radius: 50%;
     box-shadow: 0 5px 0 white;
     background: transparent;
-    animation: animate 1s linear infinite;
+    animation: animate 0.5s linear infinite;
 }
 
 .loading {
